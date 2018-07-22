@@ -1,0 +1,199 @@
+.parent{
+  background-color: silver;
+  border: 3px solid red;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.child1{
+  background-color: silver;
+  border: 3px solid red;
+  padding: 1%;
+  margin: 1%;
+  width: 200%;
+  text-align: center;
+  font-size: 25px;
+}
+img{
+  border-radius: 50%;
+  border:2px solid green;
+  width:50%;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  box-shadow:8px 12px 18px black;
+}
+
+  a
+  {
+    word-wrap: break-word;
+  }
+.child2{
+  background-color: silver;
+  border: 2px solid red;
+  padding: 1%;
+  margin: 1%;
+  width: 50%;
+}
+
+@media only screen and (min-width:1024px) and (max-width:1366px)
+{
+.parent{
+  background-color: silver;
+  border: 5px solid red;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.child1{
+  background-color: silver;
+  border: 3px solid red;
+  padding: 3%;
+  margin: 3%;
+  width: 90%;
+  text-align: center;
+  body radius:10%;
+}
+
+  .child2{
+    background-color: skyblue;
+    border: 3px solid red;
+    padding: 3%;
+    margin: 3%;
+    width: 90%;
+  }
+  a
+  {
+    word-wrap: break-word;
+  }
+}
+@media only screen and (min-width:320px) and (max-width:500px)
+{
+.parent{
+  background-color: silver;
+  border: 5px solid red;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.child1{
+  background-color: silver;
+  border: 3px solid red;
+  padding: 3%;
+  margin: 3%;
+  width: 90%;
+  text-align: center;
+  body radius:10%;
+}
+
+  .child2{
+    background-color: skyblue;
+    border: 3px solid red;
+    padding: 3%;
+    margin: 3%;
+    width: 90%;
+  }
+  a
+  {
+    word-wrap: break-word;
+  }
+}
+@media only screen and (min-width:500px) and (max-width:700px)
+{
+.parent{
+  background-color: silver;
+  border: 5px solid red;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.child1{
+  background-color: silver;
+  border: 3px solid red;
+  padding: 3%;
+  margin: 3%;
+  width: 90%;
+  text-align: center;
+  body radius:10%;
+}
+
+  .child2{
+    background-color: skyblue;
+    border: 3px solid red;
+    padding: 3%;
+    margin: 3%;
+    width: 90%;
+  }
+  a
+  {
+    word-wrap: break-word;
+  }
+}
+@media only screen and (min-width:700px) and (max-width:750px)
+{
+.parent{
+  background-color: silver;
+  border: 5px solid red;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.child1{
+  background-color: silver;
+  border: 3px solid red;
+  padding: 3%;
+  margin: 3%;
+  width: 90%;
+  text-align: center;
+  body radius:10%;
+}
+
+  .child2{
+    background-color: skyblue;
+    border: 3px solid red;
+    padding: 3%;
+    margin: 3%;
+    width: 90%;
+  }
+  a
+  {
+    word-wrap: break-word;
+  }
+}
+@media only screen and (min-width:900px) and (max-width:1000px)
+{
+.parent{
+  background-color: silver;
+  border: 5px solid red;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.child1{
+  background-color: silver;
+  border: 3px solid red;
+  padding: 3%;
+  margin: 3%;
+  width: 90%;
+  text-align: center;
+  body radius:10%;
+}
+
+  .child2{
+    background-color: skyblue;
+    border: 3px solid red;
+    padding: 3%;
+    margin: 3%;
+    width: 90%;
+  }
+  a
+  {
+    word-wrap: break-word;
+  }
+}

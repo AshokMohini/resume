@@ -1,0 +1,57 @@
+{
+  "details":{
+    "image":"Penguins.jpg",
+    "name":"spyder man",
+    "phoneno":"789987789987",
+    "email":"chandukothpalli009",
+    "address":"newyork,loss angels"
+  },
+  "career":{
+    "info":"A challenging and rewarding Logistics / Distribution Center Operations Management position within the private sector where prior experience, personal ability, and a commitment to professionalism would be of value. Position should allow for continued personal and professional growth commensurate with achievements."
+  },
+  "education":[{
+    "degree":"B.Tech",
+    "institute":"SRKR COLLEGE",
+    "date":["2016-2020","88%"]
+  },
+  {
+    "degree":"Inter",
+    "institute":"SRI CHAITANYA",
+    "date":["2014-2016","94%"]
+  },
+  {
+    "degree":"SSC",
+    "institute":"BHASHYAM",
+    "date":["2015-2016","83%"]
+  }
+],
+"keyskills":[{
+  "title":"Programming Languages:",
+  "info":["c,c++,java,python,ruby"]
+  },
+  {
+    "title":"Operating Systems:",
+    "info":["windows,linux,ubuntu,mac,doc"]
+    },
+  {
+    "title":"Databases:",
+    "info":["MySql,Oracle,Sql,PostSql"]
+    }
+
+],
+"achievements":[{
+  "title":"Technical Achievements:",
+  "info":["Best Coder Competition,Web Development"]
+  },
+  {
+    "title":"Activities:",
+    "info":["Cricket Championship,Shuttle Championship"]
+  },
+  {
+    "title":"Public Achievements:",
+    "info":"Public Speech for Avoiding Cigar"
+  }
+]
+
+
+}

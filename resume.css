@@ -1,0 +1,43 @@
+.parent
+{
+  display:flex;
+  width:100;
+  border:2px solid lime;
+
+}
+.left{
+  border:1px solid teal;
+  width:30%;
+  padding:2%;
+  margin:2%;
+
+}
+.right{
+  border:1px solid teal;
+  width:70%;
+  padding:2%;
+  margin:2%;
+
+
+}
+img{
+  border-radius: 50%;
+  border: 2px solid red;
+  width:75%;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  /*box-shadow:8px 12px 20px black;*/
+}
+#co{
+  color: blue;
+  text-align: left;
+}
+#para{
+  color:red;
+  font-size: 20px;
+}
+li{
+color:blueViolet;
+
+}
